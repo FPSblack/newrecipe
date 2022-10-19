@@ -1,6 +1,6 @@
 # COMP9900 project
 ## Preject setUp
-
+unzip the file
 Backend setup
 
 ```shell script
